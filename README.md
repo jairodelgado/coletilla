@@ -5,8 +5,8 @@ Simple Q&amp;A website
 # Features
 
   - Allows users to post questions to the community.
-  - A web-site moderatos aprove all questions and answers, nothing get published withoe approval.
-  - Users can register a jabber id to get notified when answers to their questions or discussions intantaneously.
+  - A web-site moderator approve all questions and answers, nothing gets published without approval.
+  - Users can register a jabber id to get notified when someone answers their questions or participate on its discussions intantaneously.
 
 # Installation
 
